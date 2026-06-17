@@ -26,5 +26,5 @@ I transform business data into actionable insights through SQL, Python and Power
 
 ## Connect with me
 
-LinkedIn: [Tu LinkedIn]
-Email: [Tu correo profesional]
+LinkedIn: https://www.linkedin.com/in/diegofch-dataanalytic/
+Email: diegoaxi227@gmail.com
